@@ -1,3 +1,7 @@
+# CREATIVE SCROLL
+
+The application was created with the help GSAP ScrollTrigger and GSAP ScrollSmoother.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
